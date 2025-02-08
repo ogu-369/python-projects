@@ -17,6 +17,12 @@ A Python application that performs real-time face verification using OpenCV and 
 - Displays real-time match results on the video feed.
 
 #### Installation
+- It is recommended to set up a virtual environment before installing dependencies:
+  ```sh
+  python -m venv venv
+  source venv/bin/activate  # On Windows use: venv\Scripts\activate
+  ```
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/ogu-369/python-projects.git
@@ -31,6 +37,8 @@ A Python application that performs real-time face verification using OpenCV and 
    ```
 
 #### Usage
+- Ensure `reference.jpg` is placed inside the `img` directory before running the script.
+
 Run the face verification script:
 ```sh
 python face_verifier.py
