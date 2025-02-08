@@ -38,6 +38,9 @@ A Python application that performs real-time face verification using OpenCV and 
 
 #### Usage
 - Ensure `reference.jpg` is placed inside the `img` directory before running the script.
+```sh
+mkdir img/
+```
 
 Run the face verification script:
 ```sh
