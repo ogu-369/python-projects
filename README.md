@@ -8,6 +8,7 @@ This repository contains Python projects showcasing my work.
 
 ## Projects
 - Face Verifier
+- Whiper
 
 ## License
 MIT License.
