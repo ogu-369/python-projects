@@ -1,2 +1,6 @@
+# face-verifier
 face-verifier/venv/
 face-verifier/img/
+
+# whisper
+whisper/venv/
