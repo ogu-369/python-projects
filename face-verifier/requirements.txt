@@ -1,6 +1,7 @@
 opencv-python
 deepface
 tensorflow>=2.0.0
+tf-keras
 numpy
 matplotlib
 Pillow
